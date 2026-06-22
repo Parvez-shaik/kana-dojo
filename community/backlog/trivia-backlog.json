@@ -1676,8 +1676,10 @@
       "Osaka Castle"
     ],
     "correctIndex": 0,
-    "issued": true,
-    "completed": false
+    "issued": false,
+    "completed": false,
+    "completedBy": "bonanza127",
+    "completedPR": 21612
   },
   {
     "id": 121,
